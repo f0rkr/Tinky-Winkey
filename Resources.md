@@ -17,10 +17,10 @@ Path to Visual Studio Dev Tools Command line:
 
 
 # Resources Links
-|   Website    |                    What                     |         Links          |
-|:------------:|:-------------------------------------------:|:----------------------:|
-|  Keystroke   | Get Started with Keystroke Win32 and C++    | [Keystroke][Keystroke] |                                                 
-| WinLogon.exe | Winlogon handles interface functions that are independent of authentication policy. | [Exploitdb][Exploitdb] |
+|   Website    |                    What                     |            Links             |
+|:------------:|:-------------------------------------------:|:----------------------------:|
+|  Keystroke   | Get Started with Keystroke Win32 and C++    |    [Keystroke][Keystroke]    |                                                 
+| WinLogon.exe | Winlogon handles interface functions that are independent of authentication policy. | [WinLogon.exe][Winlogon.exe] |
 
 
 [Keystroke]: https://learn.microsoft.com/en-us/windows/win32/learnwin32/keyboard-input
