@@ -1,19 +1,14 @@
 #ifndef TINKEY_HPP
-#define TINKEY_HPP
+# define TINKEY_HPP
+# include <iostream>
+# include <string>
 
-Tinkey::Tinkey( void )
-{
-	return ;
-}
+class Tinkey {
+public:
+	Tinkey( void );
+	Tinkey( const Tinkey &copy );
+	~Tikney( void );
+private:
 
-Tinkey::Tinkey( const Tinkey& copy )
-{
-	return ;
-}
-
-Tinkey::~Tinkey( void )
-{
-	return ;
-}
-
+};
 #endif
