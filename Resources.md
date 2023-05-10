@@ -14,3 +14,14 @@ Write-Host "`nVisual Studio 2022 Command Prompt variables set." -ForegroundColor
 Path to Visual Studio Dev Tools Command line:
 
 ``"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\VsDevCmd.bat"``
+
+
+# Resources Links
+|   Website    |                    What                     |         Links          |
+|:------------:|:-------------------------------------------:|:----------------------:|
+|  Keystroke   | Get Started with Keystroke Win32 and C++    | [Keystroke][Keystroke] |                                                 
+| WinLogon.exe | Winlogon handles interface functions that are independent of authentication policy. | [Exploitdb][Exploitdb] |
+
+
+[Keystroke]: https://learn.microsoft.com/en-us/windows/win32/learnwin32/keyboard-input
+[Winlogon.exe]: https://learn.microsoft.com/en-us/windows/win32/secauthn/winlogon
